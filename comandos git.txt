@@ -1,5 +1,5 @@
 1 - Criar ou logar na conta do github
-2 - Instalar github -> https://git-scm.com/download/win
+2 - Instalar Github -> https://git-scm.com/download/win
 3 - Instalar Github Desktop
 4 - Criar um repositorio remoto -> https://github.com/
 5 - Iniciar o repositorio localmente -> git init
@@ -12,5 +12,5 @@
 12 - Subir o arquivo -> git push origin master
 13 - Criar uma branch nova -> git branch <nome da branch nova>
 14 - Mudar para branch nova -> git checkout <nome da branch nova>
-14 - Commitar novas atualizacoes -> git commit -m <mensagem do commit>
-15 - Subir novas atualizacoes -> git push origin <nome da nova branch>
+15 - Commitar novas atualizacoes -> git commit -m <mensagem do commit>
+16 - Subir novas atualizacoes -> git push origin <nome da nova branch>
