@@ -15,7 +15,7 @@
 15 - Commitar novas atualizacoes -> git commit -m <mensagem do commit>
 16 - Subir novas atualizacoes -> git push origin <nome da nova branch>
 17 - Mudar para master -> git checkout master
-18 - Commitar novas atualizacoes -> git commit -m <novas atualizacoes >
+18 - Commitar novas atualizacoes -> git commit -m asdasdas
 19 - Subir as atualizacoes -> git push origin master
 20 - Voltar para branch nova -> git checkout <nome da branch nova>
 21 - Merge das atualizacoes da master -> bit merge <nome da branch nova> master
