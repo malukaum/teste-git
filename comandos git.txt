@@ -1,0 +1,5 @@
+1 - Criar ou logar na conta do github
+2 - Instalar github -> https://git-scm.com/download/win
+3 - instalar Github Desktop
+4 - Criar um repositorio git init
+5 - 
