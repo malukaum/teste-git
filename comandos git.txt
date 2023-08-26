@@ -19,4 +19,8 @@
 19 - Subir as atualizacoes -> git push origin master
 20 - Voltar para branch nova -> git checkout <nome da branch nova>
 21 - Merge das atualizacoes da master -> bit merge <nome da branch nova>
+22 - Resolver conflitos em outro arquivo
+23 - Adicionar ao stagging -> git add <nome do arquivo>
+23 - Subir novas atualizacoes -> git push origin <nome da nova branch>
+24 - Subir as atualizacoes -> git push origin master
 
