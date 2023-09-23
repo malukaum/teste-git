@@ -25,4 +25,9 @@
 24 - Subir as atualizacoes -> git push origin master
 25 - Set upstream git push --set-upstream origin master 
 26 - Git push 
+27 - Adicionar ao git ignore (.gitignore)
+28 - Remove com comando  git rm -r --cached <nome do arquivo>
+29 - Adicionar ao stage git add.
+30 - commit
+31 - push
 
