@@ -23,4 +23,6 @@
 23 - Adicionar ao stagging -> git add <nome do arquivo>
 23 - Subir novas atualizacoes -> git push origin <nome da nova branch>
 24 - Subir as atualizacoes -> git push origin master
+25 - Set upstream git push --set-upstream origin master 
+26 - Git push 
 
