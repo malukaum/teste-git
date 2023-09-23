@@ -4,7 +4,7 @@
 4 - Criar um repositorio remoto -> https://github.com/
 5 - Iniciar o repositorio localmente -> git init
 6 - Criar um arquivo
-7 - Adicionar ao stagging -> git add <nome do arquivo>
+7 - Adicionar ao staging -> git add <nome do arquivo>
 8 - Configurar nome de usuario -> git config --global user.name <nome de usuario>
 9 - Configurar email da conta -> git config --global user.email <email>
 10 - Configurar repositorio do git -> git remote add origin <caminho do repositorio>

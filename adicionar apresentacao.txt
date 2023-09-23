@@ -1,0 +1,6 @@
+add pagina 3
+
+Git status: O comando git status exibe as condições do diretório de trabalho e da área de staging. 
+	Ele permite que você veja quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
+
+Git diff: Permite visualizar as alteracoes no arquivo que nao foram commitadas ainda.
